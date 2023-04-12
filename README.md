@@ -20,12 +20,13 @@ Application Packaging:
 * [unity-example-application](https://github.com/unity-sds/unity-example-application) - Example application repository to use for testing app-pack-generator and unity-app-generator
 * [unity-ci-stage-io](https://github.com/unity-sds/unity-ci-stage-io) - Used by app-pack-generator for date stage in and stage out steps
 
-Sounder SIPS
+Interfacing:
+
+* [unity-py](https://github.com/unity-sds/unity-py) - Unity Client Library for Python
+
+Sounder SIPS:
 
 * [ounder-sips-application](https://github.com/unity-sds/sounder-sips-application) - JPL Sounder SIPS project PGE Dockerization into an OGC application
 * [sounder-sips-test-data](https://github.com/unity-sds/sounder-sips-test-data) - Test data used for running sounder-sips-application
 * [sounder-sips-tutorial](https://github.com/unity-sds/sounder-sips-tutorial) - Jupyter notebook tutorial in supoprt of the SounderSIPS team using Unity 
 
-Repositories with U-ADS contributions
-
-* [unity-py](https://github.com/unity-sds/unity-py) - Unity Client Library for Python
