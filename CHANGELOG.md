@@ -16,7 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [app-pack-generator](https://github.com/unity-sds/app-pack-generator) : [0.1.0](https://github.com/unity-sds/app-pack-generator/releases/tag/0.1.0)
 - [unity-app-generator](https://github.com/unity-sds/unity-app-generator) : [0.1.0](https://github.com/unity-sds/unity-app-generator/releases/tag/0.1.0)
 - [unity-example-application](https://github.com/unity-sds/unity-example-application) : [0.1.0](https://github.com/unity-sds/unity-example-application/releases/tag/0.1.0)
-- [unity-py](https://github.com/unity-sds/unity-py) : [0.2.0](https://github.com/unity-sds/unity-py/releases/tag/0.3.0)
+- [unity-py](https://github.com/unity-sds/unity-py) : [0.2.0](https://github.com/unity-sds/unity-py/releases/tag/0.2.0)
+- [sounder-sips-tutorial](https://github.com/unity-sds/sounder-sips-tutorial) : [0.2.0](https://github.com/unity-sds/sounder-sips-tutorial/releases/tag/0.2.0)
 
 
 ### Added
