@@ -26,7 +26,7 @@ Interfacing:
 
 Sounder SIPS:
 
-* [ounder-sips-application](https://github.com/unity-sds/sounder-sips-application) - JPL Sounder SIPS project PGE Dockerization into an OGC application
+* [sounder-sips-application](https://github.com/unity-sds/sounder-sips-application) - JPL Sounder SIPS project PGE Dockerization into an OGC application
 * [sounder-sips-test-data](https://github.com/unity-sds/sounder-sips-test-data) - Test data used for running sounder-sips-application
 * [sounder-sips-tutorial](https://github.com/unity-sds/sounder-sips-tutorial) - Jupyter notebook tutorial in supoprt of the SounderSIPS team using Unity 
 
