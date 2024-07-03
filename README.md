@@ -13,12 +13,13 @@ Deployment of Services:
 * [unity-docker-stacks](https://github.com/unity-sds/unity-docker-stacks) - Custom Unity Jupyterhub Docker stacks 
 * [unity-ads-dockstore-app-test](https://github.com/unity-sds/unity-ads-dockstore-app-test) - Repository for testing Dockstore Github application syncing
 
-Application Packaging:
+Application Packaging and Building:
 
 * [app-pack-generator](https://github.com/unity-sds/app-pack-generator) - Library to generate OGC compliant application packages from Papermill annotated  Jupyter notebooks
 * [unity-app-generator](https://github.com/unity-sds/unity-app-generator) - Unity customized usage of app-pack-generator
 * [unity-example-application](https://github.com/unity-sds/unity-example-application) - Example application repository to use for testing app-pack-generator and unity-app-generator
 * [unity-ci-stage-io](https://github.com/unity-sds/unity-ci-stage-io) - Used by app-pack-generator for date stage in and stage out steps
+* [unity-app-build-trigger](https://github.com/unity-sds/unity-app-build-trigger) - Gitlab runners installed into MCP Gitlab that run unity-app-generator with configuration parameters set up in the Gitlab environment
 
 Interfacing:
 
@@ -28,5 +29,5 @@ Sounder SIPS:
 
 * [sounder-sips-application](https://github.com/unity-sds/sounder-sips-application) - JPL Sounder SIPS project PGE Dockerization into an OGC application
 * [sounder-sips-test-data](https://github.com/unity-sds/sounder-sips-test-data) - Test data used for running sounder-sips-application
-* [sounder-sips-tutorial](https://github.com/unity-sds/sounder-sips-tutorial) - Jupyter notebook tutorial in supoprt of the SounderSIPS team using Unity 
+* [sounder-sips-tutorial](https://github.com/unity-sds/sounder-sips-tutorial) - Jupyter notebook tutorial in support of the SounderSIPS team using Unity 
 
