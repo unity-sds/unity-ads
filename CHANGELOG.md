@@ -61,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [unity-sds/unity-ads-deployment #164](https://github.com/unity-sds/unity-ads-deployment/issues/164) - Fix permission issues related to MCP Gitlab upgrade (24.2)
 - [unity-sds/unity-ads #7](https://github.com/unity-sds/unity-ads/issues/7) - Deploy app build pipeline to test and prod shared environments (24.2)
 
+--------
 
 ## [Unity Release 23.2] - 2023-07-17
 
