@@ -7,6 +7,52 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 --------
 
+## [Unity Release 24.3 - 24.4] - 2025-01-22
+
+### Repository Tags
+
+- [unity-ads-deployment](https://github.com/unity-sds/unity-ads-deployment/) : [0.8.0](https://github.com/unity-sds/unity-ads-deployment/releases/tag/0.8.0)
+- [unity-docker-stacks](https://github.com/unity-sds/unity-docker-stacks) : [0.2.4](https://github.com/unity-sds/unity-docker-stacks/releases/tag/0.2.4)
+- [unity-app-generator](https://github.com/unity-sds/unity-app-generator) : [0.3.2](https://github.com/unity-sds/unity-app-generator/releases/tag/0.3.2)
+- [app-pack-generator](https://github.com/unity-sds/app-pack-generator) : [0.4.3](https://github.com/unity-sds/app-pack-generator/releases/tag/0.4.3)
+- [unity-example-application](https://github.com/unity-sds/unity-example-application) : [0.3.0](https://github.com/unity-sds/unity-example-application/releases/tag/0.3.0)
+* [unity-app-build-trigger](https://github.com/unity-sds/unity-app-build-trigger) : [0.2.0](https://github.com/unity-sds/unity-app-build-trigger/tag/0.2.0)
+
+### Jupyter
+
+- [unity-sds/unity-ads-deployment #157](https://github.com/unity-sds/unity-ads-deployment/issues/157) - Add health check endpoint for Jupyterhub
+- [unity-sds/unity-ads-deployment #159](https://github.com/unity-sds/unity-ads-deployment/issues/159) - Modify Jupyterhub deployment to front face behind HTTPD (Cloudfront)
+- [unity-sds/unity-ads #1](https://github.com/unity-sds/unity-ads/issues/1) - Create JupyterHub unity-marketplace metadata.json
+- [unity-sds/unity-ads #4](https://github.com/unity-sds/unity-ads/issues/4) - Test Jupyterhub deployment through marketplace
+- [unity-sds/unity-ads #8](https://github.com/unity-sds/unity-ads/issues/8) - [Bug]: Upgrade EKS 1.27 AMIs
+- [unity-sds/unity-project-management #170](https://github.com/unity-sds/unity-project-management/issues/170) - Provide ability for U-ADS to use HTTPD with Jupyterhub
+- [unity-sds/unity-docker-stacks #9](https://github.com/unity-sds/unity-docker-stacks/issues/9) - Update unity-sds-client to latest version in Unity Data Science docker image
+
+### Application Generation
+
+- [unity-sds/app-pack-generator #22](https://github.com/unity-sds/app-pack-generator/issues/22) - autocatalog: App-pack-gen need to use latest UDS images
+- [unity-sds/app-pack-generator #26](https://github.com/unity-sds/app-pack-generator/issues/26) - Remove capture of standard out on papermill notebook runs
+- [unity-sds/unity-app-generator #19](https://github.com/unity-sds/unity-app-generator/issues/19) - Fix version tagging in app-pack-generator and unity-app-generator
+
+
+### Application Auto Build
+
+- [unity-sds/unity-app-build-trigger #10](https://github.com/unity-sds/unity-app-build-trigger/issues/10) - Modify pipeline builder to set umask before installing Github packages
+- [unity-sds/unity-project-management #188](https://github.com/unity-sds/unity-project-management/issues/188) - Autocatalog: Generate app-packages with updated app-pack-gen-service
+- [unity-sds/unity-project-management #191](https://github.com/unity-sds/unity-project-management/issues/191) - Deploy application build process into shared production venue
+- [unity-sds/unity-ads-deployment #165](https://github.com/unity-sds/unity-ads-deployment/issues/165) - Autocatalog: App-pack-gen service upgraded in operations
+- [unity-sds/unity-ads-deployment #166](https://github.com/unity-sds/unity-ads-deployment/issues/166) - App-package-gen and unity-app-gen must be pinned to releases not the main branch
+- [unity-sds/unity-ads-deployment #167](https://github.com/unity-sds/unity-ads-deployment/issues/167) - Update application builder (CI/CD) deployment process documentation
+- [unity-sds/unity-ads-deployment #168](https://github.com/unity-sds/unity-ads-deployment/issues/168) - Modify application build process with selectable unity-app-generator versions
+- [unity-sds/unity-ads-deployment #169](https://github.com/unity-sds/unity-ads-deployment/issues/169) - Tag Gitlab runners and jobs to allow running of build process in the appropriate location
+- [unity-sds/unity-ads-deployment #171](https://github.com/unity-sds/unity-ads-deployment/issues/171) - Improve application build process to redeploy API gateway without destroying stage
+- [unity-sds/unity-ads-deployment #173](https://github.com/unity-sds/unity-ads-deployment/issues/173) - [Bug]: Update deployed app-pack-gen services to use newest version.
+- [unity-sds/unity-ads-deployment #175](https://github.com/unity-sds/unity-ads-deployment/issues/175) - Update ci_cd README with current deployment steps
+- [unity-sds/unity-ads-deployment #176](https://github.com/unity-sds/unity-ads-deployment/issues/176) - Permission error in APGS Built Applicaiton Pacakges
+
+
+--------
+
 ## [Unity Release 23.3 - 24.2] - 2024-07-03
 
 ### Repository Tags
